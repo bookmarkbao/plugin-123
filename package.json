@@ -1,0 +1,23 @@
+{
+  "name": "plugin-123",
+  "version": "1.0.0",
+  "description": "dev plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bookmarkbao/plugin-123.git"
+  },
+  "keywords": [],
+  "author": "向军 (xiangjun02)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bookmarkbao/plugin-123/issues"
+  },
+  "homepage": "https://github.com/bookmarkbao/plugin-123#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

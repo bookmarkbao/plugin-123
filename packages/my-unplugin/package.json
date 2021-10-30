@@ -89,5 +89,6 @@
     "typescript": "^4.4.2",
     "vite": "^2.5.3",
     "webpack": "^5.51.2"
-  }
+  },
+  "gitHead": "e7e999b0ffb2b4a69b4cc9dcc01fae976d8f8db1"
 }

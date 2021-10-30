@@ -1,6 +1,6 @@
 {
   "name": "@plugin-123/my-first-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "向军 <bookmarkbao@gmail.com> (xiangjun02)",
   "homepage": "https://github.com/bookmarkbao/plugin-123/tree/main/packages/my-first-plugin#readme",
